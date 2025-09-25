@@ -1,4 +1,5 @@
 package com.example.nectar;
 
-public class Star extends Shape{
+public class Star extends Shape {
+    String color = "Purple";
 }
